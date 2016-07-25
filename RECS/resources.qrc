@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/plugins/RECS">
+    <file>recsicon.PNG</file>
+  </qresource>
+  <qresource prefix="/plugins/RECS">
+    <file>recsicon.PNG</file>
+  </qresource>
+</RCC>
